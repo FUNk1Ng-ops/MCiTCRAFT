@@ -11,4 +11,16 @@ join our eaglercraft discord! :D
 
 [![Demo Video](https://img.youtube.com/vi/MmB9b5njVbA/0.jpg)](https://youtu.be/MmB9b5njVbA)
 
+## Download Our App
+
+# For pc
+
+[Download Eaglercraft](https://eaglercraft.com/downloads)
+
+# For android
+
+[Download Eaglercraft](https://apkpure.com/eaglecraft/com.eaglecraft.game)
+
+# Sorry we dont have for iOS For all :(
+
 
