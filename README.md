@@ -13,14 +13,14 @@ join our eaglercraft discord! :D
 
 ## Download Our App
 
-# For pc
+## For pc
 
 [Download Eaglercraft](https://eaglercraft.com/downloads)
 
-# For android
+## For android
 
 [Download Eaglercraft](https://apkpure.com/eaglecraft/com.eaglecraft.game)
 
-# Sorry we dont have for iOS For all :(
+[ Sorry we dont have for iOS For all :( ]
 
 
