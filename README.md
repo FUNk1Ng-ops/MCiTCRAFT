@@ -23,4 +23,12 @@ join our eaglercraft discord! :D
 
 [ Sorry we dont have for iOS For all :( ]
 
+# Text Logo
+
+<img width="464" height="134" alt="MCiTCRAFT" src="https://github.com/user-attachments/assets/786e8d26-bad6-41ae-b298-e266299ca15b" />
+
+# Rating
+
+<img width="3300" height="3300" alt="gros_e" src="https://github.com/user-attachments/assets/fe46e60e-d1b2-41f0-aa3f-64a7e3426b9d" />
+
 
